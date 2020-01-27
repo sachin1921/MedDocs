@@ -1,0 +1,8 @@
+/doctors
+/doctors/:id
+/doctors/:id/visits
+/doctors/:id/patients
+/patients
+/patients/:id
+/visits
+/visits/:date/patients
